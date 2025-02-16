@@ -1,0 +1,4 @@
+baseURL = "https://rohmatsb.github.io/thoughts/"
+languageCode = "en-us"
+title = "Roh's Thoughts"
+theme = "PaperMod"
